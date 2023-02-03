@@ -1,0 +1,7 @@
+{
+    "Url" : "https://demoqa.com/",
+    "PageLoadWait": "00:00:15",
+    "WaitTime" :  "00:00:15",
+    "Browser" : "Chrome",
+    "BrowserArguments" : []
+}
